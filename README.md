@@ -6,6 +6,8 @@ This game was made majorly with JavaScript. It is from the Complete Javascrpit c
 I learnt to manipulate the DOM, work with classes to change styles such as active classes and other styles like color.
 It was a great way to learn how to work with the DOM!
 
+[**Live Site:**](https://my-pig-game-demi05.netlify.app/)
+
 **Initial**
 ![image](https://github.com/demi05/Pig-game/assets/98643006/2d8ef2af-bfce-436b-aaa4-7c15b781237a)
 
